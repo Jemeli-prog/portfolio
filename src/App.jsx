@@ -295,7 +295,7 @@ function App() {
               You can also find me on:
             </Typography>
             <Box sx={{ display: 'flex', justifyContent: 'center', gap: 3 }}>
-              <IconButton href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" color="primary" sx={{ '&:hover': { transform: 'scale(1.1)', transition: 'transform 0.3s ease-in-out' } }}>
+              <IconButton href="https://linkedin.com/in/ruth kiptoo" target="_blank" rel="noopener noreferrer" color="primary" sx={{ '&:hover': { transform: 'scale(1.1)', transition: 'transform 0.3s ease-in-out' } }}>
                 <LinkedInIcon sx={{ fontSize: 40 }} />
               </IconButton>
               <IconButton href="https://github.com/jemeli-prog" target="_blank" rel="noopener noreferrer" color="inherit" sx={{ '&:hover': { transform: 'scale(1.1)', transition: 'transform 0.3s ease-in-out' } }}>
